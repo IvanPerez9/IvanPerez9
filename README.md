@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![Linkedin Badge](https://img.shields.io/badge/-IvanPerezHuete-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-perez-huete/)
 ![Gmail Badge](https://img.shields.io/badge/-iperezhuete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iperezhuete@gmail.com)
-![Website Badge](https://img.shields.io/badge/-Web-blueviolet?style=flat&logo=Google-Chrome&logoColor=white&link=https://ivanperez9.github.io/)
+![Website Badge](https://img.shields.io/badge/-ivanperez9.github.io-blueviolet?style=flat&logo=Google-Chrome&logoColor=white&link=https://ivanperez9.github.io/)
