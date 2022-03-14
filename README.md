@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=IvanPerez9&count_private=true&show_icons=true&theme=onedark&hide=contribs)
 
