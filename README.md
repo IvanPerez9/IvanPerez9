@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=IvanPerez9&count_private=true&show_icons=true&theme=onedark&hide=contribs)
+![Ivan's github stats](https://github-readme-stats-ivanperez9.vercel.app/api?username=IvanPerez9&count_private=true&show_icons=true&theme=onedark&hide=contribs)
 
 ---
 ## Connect with me:
